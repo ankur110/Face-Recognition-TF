@@ -1,5 +1,5 @@
 
-# Face Recognition with MTCNN, OpenCV, VGG-Face2, and Siamese Model
+# Face Recognition with MTCNN, OpenCV, FaceNet, and Siamese Model
 
 This repository contains the code and resources for face recognition model.
 
