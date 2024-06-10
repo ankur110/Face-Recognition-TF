@@ -13,7 +13,7 @@ __1.__ __MTCNN Face Detection:__
 * Utilizes MTCNN (Multi-task Cascaded Convolutional Networks) for accurate and efficient face detection in images.
 
 __2.__ __FaceNet:__
-* Generates face embeddings using the pre trained Facenet model implemented in PyTorch, capturing distinctive features of each face.
+* Generates face embeddings using the pre trained Facenet model implemented in Tensorflow, capturing distinctive features of each face.
 
 __3.__ __Siamese Model for Recognition:__
 * Implements a Siamese neural network for face recognition, comparing and matching face embeddings to identify individuals.
