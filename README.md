@@ -3,6 +3,13 @@
 
 This repository contains the code and resources for face recognition model.
 
+## Output
+* 1.jpg
+![o2](https://github.com/ankur110/Face-Recognition-TF/assets/119743922/682f7164-4937-4727-a85d-ac89bbba716f)
+
+* 2.jpg
+![3](https://github.com/ankur110/Face-Recognition-TF/assets/119743922/6cbcf545-d9b9-4351-90b7-46feb2d3f7ee)
+
 
 ## Key Features
 
